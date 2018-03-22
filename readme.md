@@ -16,3 +16,5 @@ friendly folk that love feedback!
 
 * [Core Values](./engineering/core-values.md)
 * [Engineer Titles](./engineering/titles.md)
+* [Feature Flags](./engineering/feature-flags.md)
+* [Processes](./engineering/processes.md)
