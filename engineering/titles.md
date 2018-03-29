@@ -29,4 +29,4 @@
 - Helps set and maintain professional standards for the entire organization.
 - Can take ownership of subsystems
 - Improves the quality of teammates code, acts as a teacher
-- Rarely, if ever, ships bugs
+- Rarely, if ever, breaks prod
