@@ -9,6 +9,8 @@ of others. As we become more experienced, the beginner's mindset keeps us
 humble and able to mentor others on our team. We approach situations with and
 eagerness to learn and understand, rather than to be understood.
 
+TODO: Add note about not being afraid to ask questions.
+
 ## Hustle
 
 There is no replacement for hard-work. Not intelligence, not luck, nor
