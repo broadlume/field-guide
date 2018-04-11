@@ -39,3 +39,5 @@
 - Can take ownership of subsystems
 - Improves the quality of teammates code, acts as a teacher
 - Rarely, if ever, breaks prod
+
+TODO: separate out Lead Engineer roles/responsibilities from Staff/Principle roles and responsibilities
