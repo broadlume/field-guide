@@ -1,6 +1,6 @@
 # Engineer Titles
 
-### Junior Software Engineer(typically 0-2 years)
+### Junior Software Engineer (typically 0-2 years)
 
 - Typically less than 2 years of experience
 - Works closely with senior engineers to learn about patterns in the code base
@@ -15,7 +15,7 @@
 - Provide good test coverage for features
 - Has the domain knowledge to assess the size estimate of a card
 
-### Senior Software Engineer(typically 5+ years)
+### Senior Software Engineer (typically 5+ years)
 
 - Work doesn't necessarily need to be reviewed, but general approach may be
 - Fully capable of taking substantial features from concept to shipping as the sole programmer
